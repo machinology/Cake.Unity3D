@@ -1,18 +1,15 @@
-﻿namespace Cake.Unity3D.Test
+﻿/// <summary>
+/// All support test modes.
+/// </summary>
+public enum Unity3DTestMode
 {
     /// <summary>
-    /// All support test modes.
+    /// Represents Unity3D EditMode tests
     /// </summary>
-    public enum Unity3DTestMode
-    {
-        /// <summary>
-        /// Represents Unity3D EditMode tests
-        /// </summary>
-        EditMode,
+    EditMode,
 
-        /// <summary>
-        /// Represents Unity3D PlayMode tests
-        /// </summary>
-        PlayMode,
-    }
+    /// <summary>
+    /// Represents Unity3D PlayMode tests
+    /// </summary>
+    PlayMode,
 }

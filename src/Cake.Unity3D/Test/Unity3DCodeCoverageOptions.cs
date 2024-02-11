@@ -1,6 +1,4 @@
-﻿namespace Cake.Unity3D.Test;
-
-/// <summary>
+﻿/// <summary>
 /// Code coverage options available when performing a Unity3D build.
 /// </summary>
 public class Unity3DCodeCoverageOptions 
