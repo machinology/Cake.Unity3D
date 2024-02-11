@@ -1,10 +1,8 @@
-﻿
-using System.Runtime.CompilerServices;
+﻿using System.Runtime.CompilerServices;
 
-namespace Cake.Unity3D
+namespace Cake.Unity3D;
+
+[CompilerGenerated]
+internal class NamespaceDoc
 {
-    [CompilerGenerated]
-    internal class NamespaceDoc
-    {
-    }
 }
