@@ -301,3 +301,6 @@ tools/**
 .ncrunchsolution
 .ncrunchproject
 *.ncrunch*
+
+#nix
+.direnv
